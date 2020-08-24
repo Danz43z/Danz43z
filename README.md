@@ -21,7 +21,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
 
--    I’m now working at [Menara Astra]
+- 🛠️ I’m now working at [Menara Astra](www.menara-astra.co.id)
 - 🌱 I’m currently learning Android Development.
 - 🐍 I love Python programming language.
 - 🤔 I’m looking for help with Search Engine.
