@@ -20,7 +20,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
 
-- 🛠️ I’m now working at [Menara Astra](www.menara-astra.co.id)
+- 🛠️ I’m now working at [Menara Astra](https://www.menara-astra.co.id/)
 - 🎮 [COD Mobile](https://www.callofduty.com/mobile)
 - 📫 How to reach me : [Instagram - Ziddan](https://instagram.com/ibrahim_ziddan)
 - 🏡 Kuningan Barat East Jakarta, Indonesia
