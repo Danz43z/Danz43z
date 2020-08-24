@@ -22,9 +22,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
 
 - 🛠️ I’m now working at [Menara Astra](www.menara-astra.co.id)
-- 🌱 I’m currently learning Android Development.
+- 🎮 [COD Mobile](https://www.callofduty.com/mobile)
 - 🤔 I’m looking for help with Building Operation.
-- 📫 How to reach me : [Twitter - Ziddan](https://twitter.com/ziddan_ibrahim)
+- 📫 How to reach me : [Instagram - Ziddan](https://instagram.com/ibrahim_ziddan)
 - 🏡 Kuningan Barat East Jakarta, Indonesia
 - 😴 Only sleep 6 hours a day.
 - ☕ Coffee and Teh Asu Addict.
