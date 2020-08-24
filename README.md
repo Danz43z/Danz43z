@@ -22,11 +22,12 @@
 
 - 🛠️ I’m now working at [Menara Astra](www.menara-astra.co.id)
 - 🎮 [COD Mobile](https://www.callofduty.com/mobile)
-- 🤔 I’m looking for help with Building Operation.
 - 📫 How to reach me : [Instagram - Ziddan](https://instagram.com/ibrahim_ziddan)
 - 🏡 Kuningan Barat East Jakarta, Indonesia
 - 😴 Only sleep 6 hours a day.
 - ☕ Coffee and Teh Asu Addict.
+- 🦇 Nightshift Worker
+
 ---
 
 ```text
