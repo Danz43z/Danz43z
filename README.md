@@ -23,12 +23,11 @@
 
 - 🛠️ I’m now working at [Menara Astra](www.menara-astra.co.id)
 - 🌱 I’m currently learning Android Development.
-- 🐍 I love Python programming language.
-- 🤔 I’m looking for help with Search Engine.
+- 🤔 I’m looking for help with Building Operation.
 - 📫 How to reach me : [Twitter - Ziddan](https://twitter.com/ziddan_ibrahim)
-- 🌐 Official Website :
+- 🏡 Kuningan Barat East Jakarta, Indonesia
 - 😴 Only sleep 6 hours a day.
-- ☕ Coffee Addict.
+- ☕ Coffee and Teh Asu Addict.
 ---
 **Languages and Tools:** 
 
@@ -37,7 +36,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/Danz43z">
-    <img width="55%" align="right" alt="Angga's github stats" src="https://github-readme-stats.vercel.app/api?username=AnggaR96s&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Angga's github stats" src="https://github-readme-stats.vercel.app/api?username=Danz43z&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -61,7 +60,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </p>
 
 ---
-<!-- This readme was created by Angga - https://github.com/Danz43z -->
+<!-- This readme was created by Ziddan - https://github.com/Danz43z -->
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
