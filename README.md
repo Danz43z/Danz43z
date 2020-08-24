@@ -10,9 +10,7 @@
 <p align="center">
 <a href="https://github.com/Danz43z"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
 <a href="https://www.instagram.com/ibrahim_ziddan"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
-<a href="mailto:ziddanbismania@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
-<a href="mailto:ibrahimziddan43@gmail.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" /></p></a>
-
+<a href="mailto:ibrahimziddan43@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 ---
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
